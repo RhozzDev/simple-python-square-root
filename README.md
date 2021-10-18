@@ -1,2 +1,3 @@
 # simple-python-square-root
-Very simple script to display the square root of a given number.
+A simple script to find either square root or square of any given number in matter if seconds. and the plus point that we dont need to 
+re-run the code again and again to calculate multiple squares as it works in a loop.
